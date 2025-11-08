@@ -1,1 +1,1 @@
-streamlit pandas numpy matplotlib openpyxl xlrd
+streamlit pandas numpy matplotlib 
